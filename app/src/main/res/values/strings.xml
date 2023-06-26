@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista de Compras 03</string>
+    <string name="total">Clique aqui para ver o Total:</string>
+    <string name="macarraors4_50">Macarrão(R$4,50)</string>
+    <string name="açucarrs6_50">Açucar(R$6,50)</string>
+    <string name="feijaors12_00">Feijão(R$12,00)</string>
+    <string name="arrozrs18_00">Arroz(R$18,00)</string>
+    <string name="lista_de_compras">Lista de Compras</string>
+    <string name="leiters5_50">Leite(R$5,50)</string>
+    <string name="biscoitors2_50">Biscoito(R$2,50)</string>
+    <string name="fandangosrs3_20">Fandangos(R$3,20)</string>
+
+</resources>
